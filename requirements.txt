@@ -45,7 +45,7 @@ django-tagging==0.4.3
 gunicorn
 pytz
 pyparsing
-cairocffi
+cairocffi==0.8.0
 git+git://github.com/graphite-project/whisper.git#egg=whisper
 # Ceres is optional
 # git+git://github.com/graphite-project/ceres.git#egg=ceres
