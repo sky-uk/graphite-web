@@ -42,13 +42,13 @@ python-memcached==1.47
 txAMQP==0.4
 simplejson==2.1.6
 django-tagging==0.4.3
-gunicorn
-pytz
-pyparsing
+gunicorn==17.5
+pytz==2017.3
+pyparsing==2.2.0
 cairocffi==0.8.0
 git+git://github.com/graphite-project/whisper.git#egg=whisper
 # Ceres is optional
 # git+git://github.com/graphite-project/ceres.git#egg=ceres
-whitenoise
-scandir
-urllib3
+whitenoise==3.3.1
+scandir==1.6
+urllib3==1.7.1
